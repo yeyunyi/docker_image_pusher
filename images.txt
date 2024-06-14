@@ -1,1 +1,1 @@
-mIkIo/neko:firefox
+lscr.io/linuxserver/hedgedoc:latest
