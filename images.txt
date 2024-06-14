@@ -1,1 +1,1 @@
-ghostry/smartdns:latest
+irinesistiana/mosdns:v5.3.1
