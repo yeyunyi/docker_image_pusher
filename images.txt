@@ -1,1 +1,1 @@
-linkstackorg/linkstack:latest
+ghcr.io/plankanban/planka:latest
