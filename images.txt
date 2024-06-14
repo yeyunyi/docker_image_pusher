@@ -1,1 +1,1 @@
-jxxghp/nas-tools:latest
+linuxserver/calibre-web:latest
