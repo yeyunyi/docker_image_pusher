@@ -1,7 +1,1 @@
-gdy666/lucky:2.8.3
 adguard/adguardhome:latest
-deluan/navidrome:latest
-jrohy/webssh:latest
-jxxghp/nas-tools:latest
-linuxserver/calibre-web:latest
-liwei2633/gopeed:latest
