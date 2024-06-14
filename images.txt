@@ -1,1 +1,1 @@
-onlyoffice/trello-server:latest
+shtse8/photopea:1.0
