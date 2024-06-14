@@ -1,1 +1,1 @@
-liwei2633/gopeed:latest
+matrixdotorg/synapse:latest
