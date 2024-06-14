@@ -1,1 +1,1 @@
-vikunja/vikunja:latest
+star7th/showdoc:latest
