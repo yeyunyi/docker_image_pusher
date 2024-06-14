@@ -1,1 +1,1 @@
-linuxserver/calibre-web:latest
+liwei2633/gopeed:latest
