@@ -1,1 +1,1 @@
-penpotapp/frontend:latest
+linkstackorg/linkstack:latest
