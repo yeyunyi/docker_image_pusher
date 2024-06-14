@@ -1,1 +1,1 @@
-containrrr/watchtower:latest-dev
+adguard/adguardhome:latest
