@@ -1,1 +1,1 @@
-ghcr.io/toeverything/affine-graphql:canary:stable
+frooodle/s-pdf:latest
