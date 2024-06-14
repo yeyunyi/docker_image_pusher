@@ -1,1 +1,1 @@
-wcjiang/reference:latest
+bellamy/wallos:latest
