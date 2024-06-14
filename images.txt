@@ -1,1 +1,1 @@
-docker.io/nashsu/free_ask_internet:latest
+wiznote/wizserver:latest
