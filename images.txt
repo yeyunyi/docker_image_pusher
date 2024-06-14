@@ -1,1 +1,1 @@
-lscr.io/linuxserver/hedgedoc:latest
+docker.io/nashsu/free_ask_internet:latest
