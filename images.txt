@@ -1,1 +1,1 @@
-bellamy/wallos:latest
+mysql:5.7.35
