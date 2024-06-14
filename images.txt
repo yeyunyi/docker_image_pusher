@@ -1,1 +1,1 @@
-mariadb:10.2.44
+jgraph/drawio:latest
