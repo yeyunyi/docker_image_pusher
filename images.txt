@@ -1,1 +1,1 @@
-ghcr.io/plankanban/planka:latest
+zadam/trilium:latest
