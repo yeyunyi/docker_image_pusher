@@ -1,1 +1,1 @@
-zadam/trilium:latest
+ghostry/smartdns:latest
