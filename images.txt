@@ -1,1 +1,1 @@
-matrixdotorg/synapse:latest
+hanxi/xiaomusic:latest
