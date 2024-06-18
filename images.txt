@@ -1,1 +1,1 @@
-kubernetes/dashboard
+clamav/clamav:latest
