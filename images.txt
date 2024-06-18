@@ -1,1 +1,1 @@
-liwei2633/gopeed
+ghcr.io/jeffvli/feishin:latest
