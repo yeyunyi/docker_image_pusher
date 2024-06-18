@@ -1,1 +1,1 @@
-clamav/clamav:latest
+docker.io/searxng/searxng:latest
