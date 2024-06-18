@@ -1,1 +1,1 @@
-docker.io/valkey/valkey:7-alpine
+liwei2633/gopeed:1.5.7
