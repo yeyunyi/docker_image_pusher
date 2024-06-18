@@ -1,1 +1,1 @@
-docker.io/searxng/searxng:latest
+docker.io/valkey/valkey:7-alpine
