@@ -1,1 +1,1 @@
-liwei2633/gopeed:1.5.7
+liwei2633/gopeed
