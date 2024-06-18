@@ -1,1 +1,1 @@
-docker/desktop-kubernetes-etcd:3.5.10-0
+kubernetes/dashboard
