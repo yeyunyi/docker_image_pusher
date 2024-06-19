@@ -1,1 +1,1 @@
-mongo:4
+xiaojusurvey/xiaoju-survey:latest
