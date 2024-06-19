@@ -1,1 +1,1 @@
-xiaojusurvey/xiaoju-survey:latest
+xiaojusurvey/xiaoju-survey:1.1.5
