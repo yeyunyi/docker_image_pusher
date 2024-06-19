@@ -1,1 +1,1 @@
-ramonvc/freegpt-webui
+ydlhero/chatgpt-web-midjourney-proxy
