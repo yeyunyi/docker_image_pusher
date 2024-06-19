@@ -1,1 +1,1 @@
-freegpt-webui
+ramonvc/freegpt-webui
