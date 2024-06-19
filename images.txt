@@ -1,1 +1,1 @@
-ghcr.io/enchant97/hasty-paste:latest
+freegpt-webui
