@@ -1,1 +1,1 @@
-radrootllc/karaoke-eternal
+mongo:4
