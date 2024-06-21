@@ -1,1 +1,1 @@
-ydlhero/chatgpt-web-midjourney-proxy
+langgenius/dify-web:0.6.11
