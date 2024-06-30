@@ -1,1 +1,1 @@
-calico/kube-controllers:v3.26.0-59-gb1d192c95c89
+docker pull calico/cni:release-v3.28
