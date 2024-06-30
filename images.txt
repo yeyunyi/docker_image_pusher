@@ -1,1 +1,1 @@
-docker pull calico/cni:release-v3.28
+calico/cni:release-v3.28
