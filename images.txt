@@ -1,1 +1,1 @@
-valkey/valkey:7-alpine
+library/caddy:2-alpine
