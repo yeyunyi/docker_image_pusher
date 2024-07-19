@@ -1,1 +1,1 @@
-redis:7-alpine
+valkey/valkey:7-alpine
