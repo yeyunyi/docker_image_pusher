@@ -1,1 +1,1 @@
-library/caddy:2-alpine
+bitnami/os-shell:12-debian-12
