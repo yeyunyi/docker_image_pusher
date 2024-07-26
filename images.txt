@@ -1,1 +1,1 @@
-bitnami/harbor-registry:2.11.0-debian-12-r3
+bitnami/harbor-exporter:2.11.0-debian-12-r2
