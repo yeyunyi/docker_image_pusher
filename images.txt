@@ -1,1 +1,1 @@
-bitnami/harbor-exporter:2.11.0-debian-12-r2
+bitnami/os-shell:12-debian-12-r24
