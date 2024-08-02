@@ -1,1 +1,1 @@
-bitnami/kube-state-metrics
+bitnami/consul:1.19.1-debian-12-r4
