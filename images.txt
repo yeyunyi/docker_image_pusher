@@ -1,1 +1,1 @@
-bitnami/kibana:8.8.0-debian-11-r0
+bitnami/bitnami-shell:11-debian-11-r119
