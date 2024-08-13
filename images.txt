@@ -1,1 +1,1 @@
-bitnami/bitnami-shell:11-debian-11-r119
+apache/skywalking-oap-server:latest
