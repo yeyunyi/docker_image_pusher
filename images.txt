@@ -1,1 +1,1 @@
-docker pull apache/skywalking-satellite:v1.2.0
+apache/skywalking-satellite:v1.2.0
