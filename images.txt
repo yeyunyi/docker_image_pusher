@@ -1,1 +1,1 @@
-apache/skywalking-oap-server:latest
+apache/skywalking-satellite
