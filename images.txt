@@ -1,1 +1,1 @@
-apache/skywalking-satellite:latest
+apache/skywalking-ui:latest
