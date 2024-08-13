@@ -1,1 +1,1 @@
-apache/skywalking-ui:latest
+docker pull apache/skywalking-satellite:v1.2.0
