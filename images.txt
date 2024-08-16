@@ -1,1 +1,1 @@
-bitnami/prometheus:2.54.0-debian-12-r0
+calico/cni:v3.25.0
