@@ -1,1 +1,1 @@
-calico/kube-controllers:v3.25.0
+rook/ceph:v1.10.11
