@@ -1,1 +1,6 @@
-rook/ceph:v1.10.11
+togettoyou/quay.io.cephcsi.cephcsi:v3.7.2
+xiaochong2018/csi-node-driver-registrar:v2.7.0
+longhornio/csi-resizer:v1.7.0
+longhornio/csi-provisioner:v3.4.1
+longhornio/csi-snapshotter:v6.2.1
+giantswarm/csi-attacher:v4.1.0
