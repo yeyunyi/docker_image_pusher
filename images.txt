@@ -1,1 +1,1 @@
-guovern/iptv-api:latest
+technitium/dns-server:latest
