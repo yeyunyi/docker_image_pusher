@@ -1,1 +1,1 @@
-technitium/dns-server:latest
+ugreen/firefox:v1
