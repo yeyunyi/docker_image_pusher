@@ -1,1 +1,1 @@
-obsidiandynamics/kafdrop:4.1.0
+lovechen/embyserver:latest
