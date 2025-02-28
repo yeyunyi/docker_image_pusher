@@ -1,1 +1,1 @@
-kasmweb/firefox
+kasmweb/firefox:1.16.0
